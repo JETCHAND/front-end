@@ -1,0 +1,15 @@
+export const BASE_URL = "http://localhost:8080";
+
+export const SHIPMENT_FETCH_ALL = " SHIPMENT_FETCH_ALL";
+export const SHIPMENT_FETCH_BYID = "SHIPMENT_FETCH_BYID";
+export const SHIPMENT_ADD = "SHIPMENT_ADD";
+export const SHIPMENT_EDIT = "SHIPMENT_EDIT";
+export const SHIPMENT_DELETE = "SHIPMENT_DELETE";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+
+export const USER_FETCHALL = "USER/FETCHALL";
+
+export const USER_FETCHBYID = "USER/FETCHBYID";
+export const DELETE_USER_SUCCESS = "DELETE_USER_SUCCESS";
+export const USER_UPDATE='USER/UPDATESUCCES';
+export const USER_ADD = "USER/ADDSUCCESS";
